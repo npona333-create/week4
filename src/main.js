@@ -1,7 +1,7 @@
 import { HomePage } from "./pages/home";
 import { AdminPage } from "./pages/admin";
 import { AboutPage } from "./pages/about";
-import { ContactPage } from "./pages/Contact";
+import { ContactPage } from "./pages/contact";
 
 const routes = {
   '/': HomePage,
